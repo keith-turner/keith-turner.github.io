@@ -73,6 +73,7 @@ org.apache.accumulo.core.trace
 org.apache.accumulo.core.trace.thrift
 org.apache.accumulo.core.util
 org.apache.accumulo.core.util.cleaner
+org.apache.accumulo.core.util.compaction
 org.apache.accumulo.core.util.format
 org.apache.accumulo.core.util.interpret
 org.apache.accumulo.core.util.ratelimit
